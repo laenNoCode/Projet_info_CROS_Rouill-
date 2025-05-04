@@ -1,0 +1,5 @@
+{
+    "makefile.configureOnOpen": false,
+    "git.ignoreLimitWarning": true,
+    "C_Cpp.errorSquiggles": "disabled"
+}
